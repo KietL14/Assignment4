@@ -59,7 +59,7 @@ datasummary(growth+rgdp60~treat*(Mean+Median+SD+Min+Max),data=GrowthSW)
 ```
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
-The table provides the mean, median, standard deviation, minimum, and maximum values for each variable in the two groups. To further analyze the table, we can observe that the mean growth rate is higher for countries with 0 revolutions compared to those more than 0 revolutions. However, the median growth rate is relatively similar between the two groups.
+The table provides the mean, median, standard deviation, minimum, and maximum values for each variable in the two groups. To further analyze the table, we can observe that the mean growth rate is higher for countries with 0 revolutions compared to those more than 0 revolutions. However, the median growth rate is relatively similar between the two groups. 
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
